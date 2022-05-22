@@ -1,6 +1,6 @@
 # PrimeNumbers
 
-##About:
+About:
 
 The purpose of this project is **threefold:**
 1. Continue to learn C#
